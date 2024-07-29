@@ -44,3 +44,19 @@ All explorations are conducted by aggregating data from multiple years. A dynami
 
 
 This work is inspired from the work of Priyanka Jha.
+## Technologies Used
+
+- **HTML/CSS**: For page structure and styling.
+- **Bootstrap**: For responsive design and navigation.
+- **Chart.js**: For creating interactive charts.
+- **PapaParse**: For parsing CSV data.
+
+## Team
+
+- **JEEVITHA SHARMA.S(4MH21CS039)**
+- **CHAITHANYA B M(4MH21CS012)**
+- **KUSHAL GOWDA G(4MH21CS042)**
+
+## Supervisor
+
+- **Prof. Victor Ikechukwu Agughasi**
